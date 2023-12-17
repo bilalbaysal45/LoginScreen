@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using LoginScreenWithIdentity.Models;
+using LoginScreen.Models;
 
-namespace LoginScreenWithIdentity.Controllers;
+namespace LoginScreen.Controllers;
 
 public class HomeController : Controller
 {

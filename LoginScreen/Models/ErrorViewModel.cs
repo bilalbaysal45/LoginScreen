@@ -1,4 +1,4 @@
-namespace LoginScreenWithIdentity.Models;
+namespace LoginScreen.Models;
 
 public class ErrorViewModel
 {

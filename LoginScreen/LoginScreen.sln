@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginScreenWithIdentity", "LoginScreenWithIdentity.csproj", "{EF1B900B-AF41-40C9-A0C6-0AE3094FE931}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginScreen", "LoginScreen.csproj", "{B9D8C04E-C25F-4942-814D-0E889B86FD7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EF1B900B-AF41-40C9-A0C6-0AE3094FE931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EF1B900B-AF41-40C9-A0C6-0AE3094FE931}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EF1B900B-AF41-40C9-A0C6-0AE3094FE931}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EF1B900B-AF41-40C9-A0C6-0AE3094FE931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D8C04E-C25F-4942-814D-0E889B86FD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D8C04E-C25F-4942-814D-0E889B86FD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D8C04E-C25F-4942-814D-0E889B86FD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D8C04E-C25F-4942-814D-0E889B86FD7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3C6FFFBC-9839-44F2-A8BD-C7009191F6D9}
+		SolutionGuid = {E704DC62-1CFE-49A1-B5C9-2FB66E6F9B02}
 	EndGlobalSection
 EndGlobal
